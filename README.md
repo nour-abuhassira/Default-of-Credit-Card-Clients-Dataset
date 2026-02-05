@@ -50,8 +50,9 @@ To replicate the results, follow these steps in order:
    ```bash
    git clone [https://github.com/nour-abuhassira/Default-of-Credit-Card-Clients-Dataset.git](https://github.com/nour-abuhassira/Default-of-Credit-Card-Clients-Dataset.git)
    cd Default-of-Credit-Card-Clients-Dataset
-2. Install Required Libraries:
-    pip install pandas numpy matplotlib seaborn scikit-learn
-3. Step 1 - Data Cleaning: Open and run 'Default of Credit Card Clients Dataset_cleaning.ipynb' to generate the cleaned baseline of the dataset.
-4. Step 2 - Modeling: Open and run 'Default of Credit Card Clients Dataset_cleaning_part2.ipynb' to see the advanced processing and the final Machine Learning model results.
+2. **Install Required Libraries:**
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+4. **Step 1 - Data Cleaning:** Open and run 'Default of Credit Card Clients Dataset_cleaning.ipynb' to generate the cleaned baseline of the dataset.
+5. **Step 2 - Modeling:** Open and run 'Default of Credit Card Clients Dataset_cleaning_part2.ipynb' to see the advanced processing and the final Machine Learning model results.
   
